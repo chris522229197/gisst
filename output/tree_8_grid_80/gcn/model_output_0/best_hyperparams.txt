@@ -1,0 +1,10 @@
+num_hidden_layer: 3
+hidden_dim: 16
+learning_rate: 0.001
+num_epochs: 1000
+l2_coeff: 0.0005
+dropout_rate: 0.3
+x_l1_coeff: None
+x_ent_coeff: None
+edge_l1_coeff: None
+edge_ent_coeff: None

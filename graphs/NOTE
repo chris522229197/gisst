@@ -1,0 +1,6 @@
+sigma_scale=0.5
+sigma_sclae=0.15
+
+BA-based synthetic graphs from sig_2020_0525_1.
+Tree-based synthetic graphs from 2020_0523.
+Real-world graphs from 2020_0523.

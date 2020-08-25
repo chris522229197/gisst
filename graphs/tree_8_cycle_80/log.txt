@@ -1,0 +1,24 @@
+synthesize_graph.py
+outdir=graphs/
+topology=tree_cycle
+np_seed=123
+fold_seed=456
+
+train
+Num nodes: 792
+Num edges: 1516
+0: 408 (0.515)
+1: 384 (0.485)
+
+val
+Num nodes: 99
+Num edges: 1904
+0: 51 (0.515)
+1: 48 (0.485)
+
+test
+Num nodes: 100
+Num edges: 2354
+0: 52 (0.520)
+1: 48 (0.480)
+

@@ -1,0 +1,31 @@
+# Cache files
+**/__pycache__/*
+*.pyc
+**/.ipynb_checkpoints/*
+
+# Config files
+configs/*/*
+!configs/example/*
+!configs/test/*
+
+# Data files
+graphs/mutagenicity/*
+graphs/reddit_binary/*
+graphs/proteins/*
+data/*
+
+# Output files
+*output/*/*/*/*
+!output/*/*/*/best_hyperparams.txt
+!output/*/*/*/configs.yaml
+!output/*/*/*/best_state_dict.pt
+!output/*/*/*/best_results.txt
+slurms/output/*
+*.pdf
+*.png
+
+# Archive files
+*archive/*
+
+# Local SLURM job files
+submit*.sh

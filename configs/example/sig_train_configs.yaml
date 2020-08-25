@@ -1,0 +1,11 @@
+hyperparams:
+    num_hidden_layers: 2
+    hidden_dims: 16,32
+    learning_rates: 0.001,0.005
+    nums_epochs: 1000,2000
+    l2_coeffs: 0
+    dropout_rates: 0
+    x_l1_coeffs: 0.005,0.05
+    x_ent_coeffs: 0.1,1.0
+    edge_l1_coeffs: 0.005,0.05
+    edge_ent_coeffs: 0.1,1.0

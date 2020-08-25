@@ -1,0 +1,24 @@
+train
+	accuracy: 0.8286
+	auroc: 0.9404
+	loss_class: 0.3610
+	loss_x_l1: None
+	loss_x_ent: None
+	loss_edge_l1: None
+	loss_edge_ent: None
+val
+	accuracy: 0.8286
+	auroc: 0.9404
+	loss_class: 0.3610
+	loss_x_l1: None
+	loss_x_ent: None
+	loss_edge_l1: None
+	loss_edge_ent: None
+test
+	accuracy: 0.9000
+	auroc: 0.9594
+	loss_class: 0.2982
+	loss_x_l1: None
+	loss_x_ent: None
+	loss_edge_l1: None
+	loss_edge_ent: None

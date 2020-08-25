@@ -1,0 +1,30 @@
+synthesize_graph.py
+outdir=graphs/
+topology=tree_house
+np_seed=123
+fold_seed=456
+
+train
+Num nodes: 728
+Num edges: 1498
+0: 408 (0.560)
+1: 128 (0.176)
+2: 128 (0.176)
+3: 64 (0.088)
+
+val
+Num nodes: 91
+Num edges: 1906
+0: 51 (0.560)
+1: 16 (0.176)
+2: 16 (0.176)
+3: 8 (0.088)
+
+test
+Num nodes: 92
+Num edges: 2354
+0: 52 (0.565)
+1: 16 (0.174)
+2: 16 (0.174)
+3: 8 (0.087)
+

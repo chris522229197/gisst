@@ -1,0 +1,24 @@
+synthesize_graph.py
+outdir=graphs/
+topology=tree_grid
+np_seed=123
+fold_seed=456
+
+train
+Num nodes: 984
+Num edges: 2182
+0: 408 (0.415)
+1: 576 (0.585)
+
+val
+Num nodes: 123
+Num edges: 2766
+0: 51 (0.415)
+1: 72 (0.585)
+
+test
+Num nodes: 124
+Num edges: 3410
+0: 52 (0.419)
+1: 72 (0.581)
+

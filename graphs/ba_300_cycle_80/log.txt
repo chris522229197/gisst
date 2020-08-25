@@ -1,0 +1,24 @@
+synthesize_graph.py
+outdir=graphs/
+topology=ba_cycle
+np_seed=123
+fold_seed=456
+
+train
+Num nodes: 624
+Num edges: 2962
+0: 240 (0.385)
+1: 384 (0.615)
+
+val
+Num nodes: 78
+Num edges: 3650
+0: 30 (0.385)
+1: 48 (0.615)
+
+test
+Num nodes: 78
+Num edges: 4476
+0: 30 (0.385)
+1: 48 (0.615)
+
